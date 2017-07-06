@@ -1,0 +1,5 @@
+2017-06 client wants to pair Pardot with GetSiteControl (custom popup boxes) using Zapier.  
+The lack of documentation would suggest or infer that such connections aren't possible 
+using a free trial Zapier account. First impressions indicate that allowing 3rd party
+tools with user authentication creds that match with other 3rd party tools only spells
+trouble. And in this sense, post-implementation long-term support hasn't been considered.
