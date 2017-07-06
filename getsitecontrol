@@ -6,9 +6,10 @@ trouble. And in this sense, post-implementation long-term support hasn't been co
 
 2016-06 on a side note, access to adding GetSiteControl's script to the html of a landing
 page or external webpage was instrumental to the success of getting Zapier to connect GSC,
-MailChimp, and Blogger together. You could,also bypass using GetSiteControl altogether if
-the end goal is to populate a MailChimp subscriber list. Heck, you could just use a MailChimp
-subscription form for that.
+MailChimp, and Blogger together. You could bypass using GetSiteControl altogether if the 
+end goal is to populate a MailChimp subscriber list. Heck, you could just use a MailChimp
+subscription form for that. But, GSC has a lot of nice free and premium features that goes
+beyond a basic subscriber form on a web page.
 
 If your GetSiteControl account has several inactive widgets from previous but now inactive
 campaigns, all those contact fields will show up as configurable when you use Zapier to
