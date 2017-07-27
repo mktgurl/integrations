@@ -11,6 +11,10 @@ end goal is to populate a MailChimp subscriber list. Heck, you could just use a 
 subscription form for that. But, GSC has a lot of nice free and premium features that goes
 beyond a basic subscriber form on a web page.
 
-If your GetSiteControl account has several inactive widgets from previous but now inactive
-campaigns, all those contact fields will show up as configurable when you use Zapier to
-pair GSC + Pardot in addition to the field(s) specified in the GSC widget.
+What you see in Zapier when you test it with GetSiteControl and Pardot is a very long 
+list of custom fields in Pardot that you can configure.
+
+2017-07 Success. GetSiteControl is now live and feeding data directly into Pardot/SFDC
+using Zapier. And, what's more amazing (now that it's been figured out) is that this
+newly captured leads are funneled into a marketing automation campaign using Pardot's
+Engagement Studio. Win!
