@@ -25,7 +25,7 @@ Build a lead gen form in Marketo and its related campaign landing pages. Allow '
 (one of four possible options), create a giant funnel that would automatically segregate the customer data based upon which email theme
 was chosen, and then broadcast on a drip schedule of every other week for a finite number of emails.
 
-If we were extra clever, we would build skip logic into that drip flow and remove the user from the drip if they had 
+If we were extra clever, we would build skip logic into that drip flow and remove the customer prospect from the drip if they had 
 successfully completed one of two actions: get a quote from a dealer or demo a unit.
 
 Alas, none of that is happening.
