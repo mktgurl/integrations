@@ -17,7 +17,7 @@ Umm, WTF.
 
 If, on the other hand, we had our own instance of Marketo, we would be able to set this up with minimal interference from both
 the marketing agency and IT. I mean heck, Pardot has this feature. I would imagine Marketo does as well, being that it is the 
-more pricey version of marketing automation.
+pricier version of enterprise marketing automation.
 
 I had originally envisioned this campaign as follows:
 
