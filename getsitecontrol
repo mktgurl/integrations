@@ -18,3 +18,11 @@ list of custom fields in Pardot that you can configure.
 using Zapier. And, what's more amazing (now that it's been figured out) is that this
 newly captured leads are funneled into a marketing automation campaign using Pardot's
 Engagement Studio. Win!
+
+Side note:  
+
+When integrating GetSiteControl with Pardot, GSC pulls all available custom fields from 
+Pardot. Let me emphasize **all**. So when you're looking to hook up collected fields with
+GSC through GSC's interface, you'll be looking at an extremely long list of not-relevant
+fields for your specific lead gen campaign and field naming matters to whoever is doing
+this and future integrations.
